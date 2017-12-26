@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title:我与python的偶遇小记
 date: 2017-12-25
 categories: blog
 tags: [python]
