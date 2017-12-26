@@ -2,7 +2,7 @@
 title: "HJY BLOG" # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"
-description: "写作无用，无用之用"  # 一句话描述你的博客
+description: "写作是抒发，用文字表达，可以看清很多事情。"  # 一句话描述你的博客
 baseurl: ""
 url: "http://hujieying.com"  # 此处填写你的博客地址
 
@@ -10,7 +10,7 @@ url: "http://hujieying.com"  # 此处填写你的博客地址
 owner:
   name: "hjy" # 填写作者信息：名字
   email: hujieying0729@163.com # 填写作者信息：邮箱
-  bio: "等待是一条河，看不见起点，流不到尽头。" # 填写作者信息：博客描述
+  bio: "写作是抒发，用文字表达，可以看清很多事情。" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.jpg # 浏览器地址栏小图标，可自定义更改
