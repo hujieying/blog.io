@@ -242,7 +242,7 @@ plt.show()
 ![matplotlib4.png (640×480)](https://raw.githubusercontent.com/hujieying/Python-data-analysis/master/pic/matplotlib4.png)
 
 ## 线箱图
-
+等我后续再更新，哈哈
 
 
 
