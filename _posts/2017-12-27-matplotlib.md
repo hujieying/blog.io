@@ -3,7 +3,7 @@ layout: post
 title: matplotlib常用方式练习
 date: 2017-12-27
 categories: blog
-tags: [matplotlib，数据分析，python]
+tags: [matplotlib,数据分析,python]
 description: matplotlib常用方式。
 ---
 
